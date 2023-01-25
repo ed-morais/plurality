@@ -1,6 +1,6 @@
 # Plurality
 
-The Plurality program is a simple election simulation program that implements the plurality voting method. It is coded in C as a problem set of the Harvard's CS50 course. The program takes in command line arguments representing the names of the candidates running in the election and allows a user-specified number of voters to cast their votes. The program then declares the candidate with the most votes as the winner of the election.
+The Plurality program is a simple election simulation program that implements the plurality voting method. It is written in C as a problem set of the Harvard's CS50 course. The program takes in command line arguments representing the names of the candidates running in the election and allows a user-specified number of voters to cast their votes. The program then declares the candidate with the most votes as the winner of the election.
 
 ## Getting Started
 To get started, download the distribution code by executing the following commands in the terminal window of the CS50 IDE:
